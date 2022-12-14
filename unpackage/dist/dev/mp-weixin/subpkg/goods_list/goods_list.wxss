@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.goods-list {
+  border: 1rpx solid #efefef;
+  margin: 0 8rpx;
+}
+
